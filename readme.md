@@ -27,5 +27,5 @@ pull docker image from private repo
 
 docker image rm <image_id_3_unique_prefix> 
 --
-delete repo from local reposotory 
+delete repo from local reposotory \n
 options --> -f to force delete
