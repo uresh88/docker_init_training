@@ -29,3 +29,14 @@ docker image rm <image_id_3_unique_prefix>
 --
 delete repo from local reposotory  
 options --> -f to force delete  
+
+
+
+  
+
+
+Docker Swan
+--
+used for docker occestration see image DockerSwan.png  
+if node in swan cluster failed other applications will go to another worker node defined in swan cluster  
+** swan comes under UCP(Universal Control Plane). So need to have Docker licened version.  
